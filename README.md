@@ -1,6 +1,10 @@
+# Preview
+
 ![](https://i.loli.net/2020/04/23/MGEXtNZu8HT9sPd.png)
 
 
+
+# Link
 
 [Download](https://github.com/HeavenlyChorus/shortcutGUI-for-aoe2.net/releases/download/1.0/shortcutGUI-for-aoe2.net.exe)
 
