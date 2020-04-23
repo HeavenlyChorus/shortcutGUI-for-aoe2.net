@@ -71,7 +71,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "ShortcutGUI for aoe2.net"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "shortcutGUI for aoe2.net"))
         self.textEdit_name.setPlaceholderText(_translate("MainWindow", "Type your in game name here"))
         self.pushButton_opponent.setText(_translate("MainWindow", "Opponent (1v1)"))
         self.pushButton_match.setText(_translate("MainWindow", "Match Info"))
